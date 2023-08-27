@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1691707135 source:c:\users\umohs\desktop\sdb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBApp.c"
+
+1691877482 c:\users\umohs\desktop\sdb\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.c"
+
+1691709427 c:\users\umohs\desktop\sdb\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1691667535 c:\users\umohs\desktop\sdb\sdb.h
+	"STD.h"
+
+1691624154 c:\users\umohs\desktop\sdb\std.h
+
+1691707135 source:c:\users\umohs\onedrive\embedded test\sdb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDBApp.c"
+
+1691877482 c:\users\umohs\onedrive\embedded test\sdb\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.c"
+
+1691709427 c:\users\umohs\onedrive\embedded test\sdb\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1691667535 c:\users\umohs\onedrive\embedded test\sdb\sdb.h
+	"STD.h"
+
+1691624154 c:\users\umohs\onedrive\embedded test\sdb\std.h
+
